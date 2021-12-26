@@ -1,11 +1,11 @@
 ## Основная информация
 
 ### Пример:
-  - Реализация примерв Echo - https://github.com/labstack/echo
+  - Реализация примера Echo - https://github.com/labstack/echo
     - Создание Routes
     - Создание Обработчиков 
   - Реализация примера Swagger - https://github.com/swaggo/swag
-  - Реализция пример GORM -  https://gorm.io/docs/
+  - Реализция примера GORM -  https://gorm.io/docs/
     - Сооздание таблиц
     - Миграции   
   - Реализация примера JWT - https://github.com/golang-jwt/jwt
