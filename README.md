@@ -6,15 +6,18 @@
     - Создание Обработчиков 
   - Реализация примера Swagger - https://github.com/swaggo/swag
   - Реализция примера GORM -  https://gorm.io/docs/
-    - Сооздание таблиц
+    - Создание таблиц
     - Миграции   
   - Реализация примера JWT - https://github.com/golang-jwt/jwt
+  - Реализация Docker с Postgres
+  - Реализация PgAdmin
 
 ### Запуск:
-1. Настройка env (*см. далее*)
-2. Склонировать репозиторий
-3. Написать команду `go mod download`
-4. Запустить `go run cmd/main.go`
+1. Склонировать репозиторий
+2. Настройка env (*см. далее*)
+3. `docker-compose up -d`
+4. Написать команду `go mod download`
+5. Запустить `go run cmd/main.go`
 
 ### Env:
 1. Редактируем .env
