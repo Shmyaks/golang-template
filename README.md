@@ -32,4 +32,6 @@ JWT_SECRET=
 JWT_ACCESS_TOKEN_EXPIRE_MINUTES=
 ```
 
-
+### Документация:
+`localhost:*ваш порт*/docs`
+Чтобы обновить документацию - `swag init -g cmd/main.go`
