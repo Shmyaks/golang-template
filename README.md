@@ -20,7 +20,7 @@
 5. Запустить `go run cmd/main.go`
 
 ### Env:
-1. Редактируем .env
+1. Редактируем .env *(Файл .env.example удаляем)*
 ```sh
 DATABASE_HOST=
 DATABASE_NAME=
